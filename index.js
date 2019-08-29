@@ -1,4 +1,4 @@
-var api = "AIzaSyC6OBaxECFDGHejevOtFC6RmUCrKFTYTXQ";
+var api = "";
 var googleTranslate = require('google-translate')(api);
 
 var text = 'I am using google translator to convert this text to swedish'
